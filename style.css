@@ -19,7 +19,6 @@ a {
 
 body {
     font-family: 'Poppins', sans-serif;
-    /* background: linear-gradient(to right, #2e003e, #5c007a); */
     background: url(images/background.png);
     background-repeat: no-repeat;
     background-size: cover;
